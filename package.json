@@ -1,0 +1,21 @@
+{
+  "name": "serverHTTPtranslator.js",
+  "version": "1.0.0",
+  "description": "serverHTTPtranslator.js",
+  "main": "serverHTTPtranslator.js",
+  "scripts": {
+    "start": "node serverHTTPtranslator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "gerardcl@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "node-rest-client": "^1.8.0"
+  }
+}
